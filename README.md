@@ -5,7 +5,7 @@
 目前打算阅读的书有：
 * [期权、期货及其他衍生产品(原书第9版)](https://www.amazon.cn/dp/B00PXU8A3G/)
   * 这本书不打算通读。会写某些章节的笔记
-* [期权量化交易员指南(原书第2版)]（https://www.amazon.cn/dp/B071LFW8W4/）
+* [期权量化交易员指南(原书第2版)](https://www.amazon.cn/dp/B071LFW8W4/)
   * 打算通读
 * [波动率微笑:宽客大师教你建模](https://www.amazon.cn/dp/B07896NVRF/)
   * 正在通读
